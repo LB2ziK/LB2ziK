@@ -35,3 +35,5 @@
  
  <br>
 Sempre em busca do conhecimento, aprendendo a cada dia.
+
+  ![snake gif](https://github.com/lb2zik/lb2zik/blob/output/github-contribution-grid-snake.svg)
