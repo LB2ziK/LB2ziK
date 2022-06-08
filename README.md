@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Luís Angelis&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=251DF7D2&center=true&vCenter=true&lines=Salve%2C+Bem-Vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Salve%2C+Bem+Vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
 
 - 🌱 Estudante, Cusando Desenvolvimento de Sistemas na ETEC (3° Ano)
 - ⚡ Curto Hardware, Programação, Jogos, Futebol
@@ -46,6 +46,8 @@
   <img align="center" alt="visual" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img align="center" alt="visual" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
  
+ <br>
+ <br>
  <br>
 Sempre em busca do conhecimento, aprendendo a cada dia.
 
