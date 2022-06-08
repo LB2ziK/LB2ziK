@@ -1,9 +1,10 @@
-## SALVE! Eu sou o Luis Angelis
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Luís Angelis&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Salve%2C+Bem+Vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=251DF7D2&center=true&vCenter=true&lines=Salve%2C+Bem-Vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
 
 - 🌱 Estudante, Cusando Desenvolvimento de Sistemas na ETEC (3° Ano)
 - ⚡ Curto Hardware, Programação, Jogos, Futebol
+
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC59jVyzlnP_OTV0yaVGgRvA/featured)
@@ -12,13 +13,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-de-rissi-de-angelis-6a5349241/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/luisrissi27)<br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=lb2zik&theme=gotham&hide_border=true&area=true)  
+![Contribution](https://activity-graph.herokuapp.com/graph?username=lb2zik&theme=gotham&hide_border=true&area=true)
+  
 <div align="center">
   <a href="https://github.com/lb2zik">
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=lb2zik&theme=gotham"/> <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lb2zik&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lb2zik&layout=compact&langs_count=7&theme=gotham&bg_color=#071a16"/>
-  <img height="150em" src="(https://activity-graph.herokuapp.com/graph?username=lb2zik&theme=gotham&hide_border=true&area=true")/>
 </div>
 <br><br>
 
@@ -49,3 +50,5 @@
 Sempre em busca do conhecimento, aprendendo a cada dia.
 
   ![snake gif](https://github.com/lb2zik/lb2zik/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
