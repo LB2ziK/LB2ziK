@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Salve%2C+Bem+Vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
 
-- 🌱 Estudante, Cusando Desenvolvimento de Sistemas na ETEC (3° Ano)
+- 🌱 Estudante de Ciencias da Computaçao pela UNIP Bauru-SP
+- 🐱‍👤 Tec. Desenvolvimento de Sistemas pela ETEC Jaú-SP
 - ⚡ Curto Hardware, Programação, Jogos, Futebol
 
 
