@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Salve%2C+Bem+Vindo+ao+meu+GITHUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs!+)](https://git.io/typing-svg)
 
 - 🌱 Estudante de Ciencias da Computaçao pela UNIP Bauru-SP
 - 🐱‍👤 Tec. Desenvolvimento de Sistemas pela ETEC Jaú-SP
