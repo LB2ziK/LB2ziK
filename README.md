@@ -1,20 +1,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs!+)](https://git.io/typing-svg)
 
-- 🌱 Estudante de Ciencias da Computaçao pela UNIP Bauru-SP
-- 🐱‍ Tec. Desenvolvimento de Sistemas pela ETEC Jaú-SP
-- ⚡ Curto Hardware, Programação, Jogos, Futebol
+- 🌱 Estudante de Ciencias da Computaçao pela UNIP Bauru-SP.
+- 🐱‍ Tec. Desenvolvimento de Sistemas pela ETEC Jaú-SP.
+- ⚡ Curto Hardware, Programação, Jogos, Futebol.
 
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luisangelis014)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuisRissi27)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-de-rissi-de-angelis-6a5349241/)
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lb2zik&bg_color=182425&color=375fbe&line=375fbe&point=375fbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -54,8 +49,7 @@
 <br>
 
 
-Sempre em busca do conhecimento, aprendendo a cada dia.
+Sempre em busca do conhecimento, aprendendo a cada dia, foco e perseverança.
+<br>
 
-  ![snake gif](https://github.com/lb2zik/lb2zik/blob/output/github-contribution-grid-snake.svg)
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lb2zik&bg_color=182425&color=375fbe&line=375fbe&point=375fbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
