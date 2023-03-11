@@ -12,6 +12,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-de-rissi-de-angelis-6a5349241/)
 
 
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lb2zik&bg_color=182425&color=375fbe&line=375fbe&point=375fbe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 ## Tecnologias que utilizo:
 
 <div style="display: inline_block">
