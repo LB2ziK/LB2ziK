@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs!+)](https://git.io/typing-svg)
 
 - 👨‍💻 Desenvolvedor de Software.
-- 🌱 Estudante de Ciencias da Computaçao    - UNIP Bauru-SP.
+- 🌱 Estudante de Ciencias da Computação    - UNIP Bauru-SP (4/8).
 - 🐱‍ Técnico em Desenvolvimento de Sistemas - ETEC Jaú-SP.
 - ⚡ Aficcionado por hardware, software. 
 
